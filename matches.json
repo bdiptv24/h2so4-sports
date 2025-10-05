@@ -5,35 +5,28 @@
   "matches": [
     {
       "event_category": "Cricket",
-      "title": "India vs Australia",
-      "src": "https://i.postimg.cc/2yD8svwC/ct25.png",
-      "team_1": "India",
-      "team_2": "Australia",
+      "title": "Afghanistan vs Bangladesh (Afghanistan and Bangladesh tour in UAE, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-vs-Bangladesh-T20_Old-(1).jpg",
+      "team_1": "Afghanistan",
+      "team_2": "Bangladesh",
       "status": "UPCOMING",
-      "event_name": "ICC CT 2025",
-      "match_name": "India vs Australia",
-      "match_id": 117658,
+      "event_name": "",
+      "match_name": "Afghanistan vs Bangladesh",
+      "match_id": 136880,
       "startTime": "2025-10-05T00:40:00",
       "endTime": "2025-10-15T23:30:00",
       "servers": [
         {
           "server_name": "SRV - 1",
           "type": "dash",
-          "link": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "keyId": "7995c724a13748ed970840a8ab5bb9b3",
-          "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
-        },
-        {
-          "server_name": "SRV - 4",
-          "type": "dash",
           "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
           "keyId": "065051b99bf5cf8d9a3bde5cbde6aaf9",
           "key": "214bd176832872339ce184338320f9a2"
         },
         {
-          "server_name": "SRV - 5",
+          "server_name": "SRV - 2",
           "type": "hls",
-          "link": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist.m3u8",
+          "link": "",
           "keyId": "",
           "key": ""
         }
@@ -49,8 +42,8 @@
   "event_name": "Copa America 2025",
   "match_name": "Brazil vs Argentina",
   "match_id": 117659,
-  "startTime": "2025-10-05T14:08:00",
-  "endTime": "2025-10-06T17:00:00",
+  "startTime": "2025-10-03T14:08:00",
+  "endTime": "2025-10-03T17:00:00",
   "servers": [
     {
       "server_name": "SRV - 1",
