@@ -10,7 +10,7 @@
       "team_1": "Afghanistan",
       "team_2": "Bangladesh",
       "status": "UPCOMING",
-      "event_name": "AFG & BD Tour in UAE",
+      "event_name": "Bangladesh tour in UAE, 2025",
       "match_name": "",
       "match_id": 136880,
       "startTime": "2025-10-05T20:00:00",
@@ -25,6 +25,13 @@
         },
         {
           "server_name": "SRV - 2",
+          "type": "dash",
+          "link": "https://abmvm23aaaaaaaamjmmec4lqatq7x.ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
+          "keyId": "5689304538fa9f3bb3da99c939a2ad4f",
+          "key": "6907c88ed8ebdd35a2fa80b9684715e1"
+        },
+        {
+          "server_name": "SRV - 3",
           "type": "hls",
           "link": "",
           "keyId": "",
