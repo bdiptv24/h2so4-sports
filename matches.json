@@ -75,6 +75,41 @@
       ]
     },
     {
+      "event_category": "Football",
+      "title": "Brazil vs Argentina",
+      "src": "https://i.postimg.cc/XYZ123/football.png",
+      "team_1": "Brazil",
+      "team_2": "Argentina",
+      "status": "UPCOMING",
+      "event_name": "Copa America 2025",
+      "match_name": "Brazil vs Argentina",
+      "match_id": 117659,
+      "startTime": "2025-10-03T14:08:00+06:00",
+      "endTime": "2025-10-03T17:00:00+06:00",
+      "servers": [
+        {
+          "server_name": "SRV - 1",
+          "type": "dash",
+          "link": "http://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/rdznpzcmct/out/v1/355324ed98a94cbebbaff4bad0cd28ce/cenc.mpd",
+          "keyId": "5deb190b1dac28e46c0bdada7668b7de",
+          "key": "ddd2b372702e42b0d2708a70b91dec8d"
+        },
+        {
+          "server_name": "SRV - 2",
+          "type": "hls",
+          "link": "https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8",
+          "keyId": "",
+          "key": ""
+        }
+      ]
+    }
+  ]
+}          "keyId": "",
+          "key": ""
+        }
+      ]
+    },
+    {
   "event_category": "Football",
   "title": "Brazil vs Argentina",
   "src": "https://i.postimg.cc/XYZ123/football.png",
