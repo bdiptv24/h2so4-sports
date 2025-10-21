@@ -33,7 +33,14 @@
         {
           "server_name": "SRV - 3",
           "type": "hls",
-          "link": "https://tapmad-live.cdn.vustreams.com/live/970deb84-bb4c-4dc3-99fb-01c68dd7c9af/live.isml/.m3u8",
+          "link": "https://bd-mc-fdlive.fancode.com/mumbai/137701_english_hls_e2d3dbff1074833ta-di_h264/index.m3u8",
+          "keyId": "",
+          "key": ""
+        },
+        {
+          "server_name": "SRV - 4 IND",
+          "type": "hls",
+          "link": "https://in-mc-fdlive.fancode.com/mumbai/137701_english_hls_e2d3dbff1074833ta-di_h264/index.m3u8",
           "keyId": "",
           "key": ""
         }
