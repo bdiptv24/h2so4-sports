@@ -47,6 +47,40 @@
       ]
     },
     {
+      "event_category": "Cricket",
+      "title": "Australia vs India",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-o7T613mqzDWOL20G62iMHXNyuGvznK8SU7o25wyW_vlyifJo9YRQiu3b&s=10",
+      "team_1": "Australia",
+      "team_2": "India",
+      "status": "UPCOMING",
+      "event_name": "India Tour of Australia",
+      "match_name": "",
+      "match_id": 136880,
+      "startTime": "2025-10-23T13:00:00",
+      "endTime": "2025-10-24T17:00:00",
+      "servers": [
+        {
+          "server_name": "SRV - 1",
+          "type": "dash",
+          "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
+          "keyId": "a93c1cbfdccd23233bac13540c693e7f",
+          "key": "2f6ab2e6693eb847eff3c9da8f9d01fc"
+        },
+        {
+          "server_name": "SRV - 2",
+          "type": "dash",
+          "link": "https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hx4yfgqrc6/out/v1/219fea0a84a04c2086ed9c0c24272bbe/cenc.mpd",
+          "keyId": "f5d102ea74c6e686e1420773038a32c9",
+          "key": "3d27f8a3d818767c42a17e305320b6d4"
+        },
+        {
+          "server_name": "SRV - 3",
+          "type": "hls",
+          "link" :"https://cdn16348712.blazingcdn.net/india/index.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=AppleCoreMedia/1.0.0.23B5044l (iPhone; U; CPU OS 26_1 like Mac OS X; en_us)",
+          "keyId": "",
+          "key": ""
+    },
+    {
       "event_category": "Football",
       "title": "Brazil vs Argentina",
       "src": "https://i.postimg.cc/XYZ123/football.png",
